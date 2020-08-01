@@ -1,8 +1,8 @@
 
 ---
 layout: page
-title: "Index" 
-subtitle: "Welcome to Waypoint Bioinformatics"   
+title: "Welcome to Waypoint Bioinformatics" 
+subtitle: "Coming soon...."   
 feature-img: "assets/img/Sky.jpg" 
 permalink: /index.html               # Set a permalink your your page
 hide: false                           # Prevent the page title to appear in the navbar
