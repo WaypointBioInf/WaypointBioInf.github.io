@@ -1,15 +1,33 @@
----
-layout: default
----
 
-<div class="home">
+<!DOCTYPE html>
+<!--
+    Type on Strap jekyll theme v2.2.4
+    Copyright 2016-2019 Sylhare
+    Theme free for personal and commercial use under the MIT license
+    https://github.com/sylhare/Type-on-Strap/blob/master/LICENSE
+-->
+<html lang="en">
+  {% include head.html %}
+  <body>
+    {% include navbar.html %}
+    <div class="content">
+		<div class="home">
 
     <div id="main" class="call-out"
          style="background-image: url('{{ site.header_feature_image | relative_url }}')">
         <h1> {{ site.header_text | default: " "}} </h1>
-		  	{{ content }}
 
     </div>
+<section class="post-content">
+  
+	<p>We are a …</p>
 
-</div>
+
+  
+  </section>
+</div>    </div>
+    {% include footer.html %}
+  </body>
+</html>
+
 
