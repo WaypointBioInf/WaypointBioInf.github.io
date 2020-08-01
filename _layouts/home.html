@@ -7,8 +7,9 @@ layout: default
     <div id="main" class="call-out"
          style="background-image: url('{{ site.header_feature_image | relative_url }}')">
         <h1> {{ site.header_text | default: " "}} </h1>
+		  	{{ content }}
+
     </div>
-  	{{ content }}
 
 </div>
 
