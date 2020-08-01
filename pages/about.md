@@ -7,15 +7,6 @@ feature-img: "assets/img/Compute2.jpg"
 tags: [About, Archive]
 ---
 
-Who am I...?
+We are a ...
 
-Insert
-
-Some
-
-Stuff
-
-Here
-
-555-1111
  
