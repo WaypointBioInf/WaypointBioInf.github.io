@@ -3,7 +3,7 @@ layout: page
 title: Contact
 subtitle: Please get in touch
 permalink: /contact/
-gallery_path: "assets/img/Compute.jpg"
+feature-img: "assets/img/Compute.jpg"
 tags: [Contact]
 ---
 
