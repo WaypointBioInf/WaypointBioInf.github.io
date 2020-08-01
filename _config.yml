@@ -1,1 +1,6 @@
 remote_theme: Sylhare/Type-on-Strap
+
+title: Waypoint Bioinformatics                 # Name of website
+avatar: assets/img/waypoint2.png       # Path of avatar image, to be displayed in the theme's header
+description: Coming Soon            # Short description, primarily used by search engines
+
