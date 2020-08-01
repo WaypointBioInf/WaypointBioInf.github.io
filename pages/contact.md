@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact
-subtitle: From the pexels folder
+subtitle: Please get in touch
 permalink: /contact/
 gallery_path: "assets/img/Compute.jpg"
 tags: [Contact]
