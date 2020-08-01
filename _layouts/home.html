@@ -6,15 +6,15 @@ layout: default
 
     <div id="main" class="call-out"
          style="background-image: url('{{ site.header_feature_image | relative_url }}')">
-        <h1> {{ site.header_text | page.title | default: " "}} </h1>
+        <h1> {{ site.header_text | home.title | default: " "}} </h1>
     </div>
 
 <section class="post-content">
-  {% if page.bootstrap %}
+  {% if home.bootstrap %}
   <div class="bootstrap-iso">
   {% endif %}
 	{{ content }}
-  {% if page.bootstrap %}
+  {% if home.bootstrap %}
   </div>
   {% endif %}
   </section>
