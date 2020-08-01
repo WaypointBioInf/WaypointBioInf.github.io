@@ -5,7 +5,7 @@ url: "https://waypointbioinf.github.io"
 # THEME-SPECIFIC CONFIGURATION
 title: Waypoint Bioinformatics                                   # site's title
 description: "A website for..."      # used by search engines
-avatar: assets/img/waypoint2.png                         # Empty for no avatar in navbar
+avatar: assets/img/Mini.png                         # Empty for no avatar in navbar
 favicon: assets/favicon.ico                             # Icon displayed in the tab
 
 # Header and footer text
