@@ -3,10 +3,8 @@ layout: page
 title: Contact
 subtitle: From the pexels folder
 permalink: /contact/
-gallery_path: "assets/img/pexels"
+gallery_path: "assets/img/Compute.jpg"
 tags: [Contact]
 ---
 
 This is how you get in contact with us
-
-{% include gallery.html gallery_path=page.gallery_path %}
